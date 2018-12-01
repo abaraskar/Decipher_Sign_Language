@@ -1,4 +1,4 @@
-### Decipher Sign Language
+### Part 1: Decipher Sign Language
 
 The objective is to create a model to decipher the numbers represented by the hand sign.
 
